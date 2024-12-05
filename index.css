@@ -7,6 +7,14 @@ body {
     text-align: center;
 }
 
+.logo img {
+    max-width: 150px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    padding: 10px 0;
+}
+
 header {
     background-color: #69626D;
     color: #E8C7DE;
