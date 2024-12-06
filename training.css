@@ -15,7 +15,7 @@ body {
 }
 
 header {
-    background-color: #CBBEB3;
+    background-color: #69626D;
     padding: 15px 20px;
     display: flex;
     justify-content: space-between;
@@ -40,7 +40,7 @@ header nav a:hover {
 .training-intro {
     text-align: center;
     background-color: #E8C7DE;
-    color: white;
+    color: #69626D;
     padding: 50px 20px;
 }
 
@@ -67,7 +67,7 @@ header nav a:hover {
 .features div {
     margin: 10px;
     padding: 10px;
-    background-color: #BCAF9C;
+    background-color: #69626D;
     border-radius: 8px;
     display: inline-block;
     width: 200px;
@@ -86,7 +86,7 @@ header nav a:hover {
 
 
 footer {
-    background-color: #CBBEB3;
+    background-color: #69626D;
     color: #69626D;
     padding: 10px;
 }
