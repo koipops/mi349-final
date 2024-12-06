@@ -5,3 +5,66 @@
     margin: 0 auto;
     padding: 10px 0;
 }
+
+body {
+    font-family: Arial, sans-serif;
+    color: #69626D;
+    background-color: #F9F5F6;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background-color: #CBBEB3;
+    padding: 10px;
+}
+
+header .logo img {
+    max-width: 100px;
+}
+
+header nav a {
+    color: #69626D;
+    text-decoration: none;
+    margin: 0 10px;
+    font-size: 1em;
+}
+
+header nav a:hover {
+    color: #E8C7DE;
+}
+
+.training-intro {
+    background-color: #E8C7DE;
+    color: white;
+    padding: 20px;
+}
+
+.training-intro h1 {
+    font-size: 2em;
+}
+
+.training-intro p {
+    font-size: 1em;
+}
+
+.features {
+    padding: 20px;
+    background-color: #D9BDC5;
+}
+
+.features div {
+    margin: 10px;
+    padding: 10px;
+    background-color: #BCAF9C;
+    border-radius: 8px;
+    display: inline-block;
+    width: 200px;
+}
+
+footer {
+    background-color: #CBBEB3;
+    color: #69626D;
+    padding: 10px;
+}
